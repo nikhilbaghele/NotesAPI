@@ -1,0 +1,28 @@
+{
+  "name": "notesapi",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb",
+    "restapi",
+    "jwt"
+  ],
+  "author": "Nikhil Baghele",
+  "license": "ISC",
+  "description": "Simple Notes API",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0",
+    "express-validator": "^7.2.1",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.16.3"
+  }
+}
