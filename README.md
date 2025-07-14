@@ -69,8 +69,8 @@ Returns:
 [
   {
     "_id": "6875062668a3221af55be2ae",
-    "title": "Name",
-    "content": "cat",
+    "title": "Cat",
+    "content": "Cat is a mammal",
     "user": "6874ff9ad1b2ed47d5120ead",
     "createdAt": "2025-07-14T13:29:10.032Z",
     "updatedAt": "2025-07-14T13:29:10.032Z",
